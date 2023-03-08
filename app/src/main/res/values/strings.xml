@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lab4</string>
+    <string name="sname">name</string>
+    <string name="semail">email</string>
+    <string name="spassword">password</string>
+    <string name="rpassword">re-enter password</string>
 </resources>
